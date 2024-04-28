@@ -2,9 +2,13 @@
 
 A functional representation of mobile version of ChatCPT 
 
-User friendly application 
-
 ## Key Features
+
+* AI assistent
+* User friendly
+
+Application was written programmatically with Swift
+
 
 
 
